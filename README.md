@@ -11,6 +11,9 @@ In order to do this analysis, we will use data science and machine learning tech
 - Geopy for geocoding
 
 **Files description:**
+- **Data_Science_project.pdf:**
+- **Paris_eating_places.ipynb:**
+- **Presentation.pdf:**
 
 **Project references:**
 
