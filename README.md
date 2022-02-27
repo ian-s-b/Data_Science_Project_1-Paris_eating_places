@@ -10,7 +10,9 @@ In order to do this analysis, we will use data science and machine learning tech
 - Sklearn for Kmeans algorithm
 - Geopy for geocoding
 
-**Project references :**
+**Files description:**
+
+**Project references:**
 
 [1] <a href=https://opendata.paris.fr/explore/dataset/arrondissements/>"Paris Data" webstie - Arrondissements geojson file</a>
                                                
