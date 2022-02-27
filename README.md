@@ -11,9 +11,9 @@ In order to do this analysis, we will use data science and machine learning tech
 - Geopy for geocoding
 
 **Files description:**
-- **Data_Science_project.pdf:**
-- **Paris_eating_places.ipynb:**
-- **Presentation.pdf:**
+- **Data_Science_project.pdf:** Description of the project, general explanation of the code and conclusions.
+- **Paris_eating_places.ipynb:** Jupyter notebook file with the complete python script used to realize the project.
+- **Presentation.pdf:** A brief summary of the project in the form of a presentation.
 
 **Project references:**
 
