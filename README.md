@@ -5,10 +5,10 @@ In order to do this analysis, we will use data science and machine learning tech
 
 **Project references :**
 
-[1] "Paris Data" webstie - Arrondissements: https://opendata.paris.fr/explore/dataset/arrondissements/
+[1] <a href=https://opendata.paris.fr/explore/dataset/arrondissements/>"Paris Data" webstie - Arrondissements geojson file</a>
+                                               
+[2] <a href=https://epsg.io/>Klokan Technologies’ open-source web service</a>
 
-[2] Klokan Technologies’ open-source web service: https://epsg.io/
+[3] <a href=https://developer.foursquare.com/>Foursquare API</a>
 
-[3] Foursquare API: https://developer.foursquare.com/
-
-[4] Nominatim API: https://nominatim.org/
+[4] <a href=https://nominatim.org/>Nominatim API</a>
